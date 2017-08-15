@@ -1,0 +1,6 @@
+@import url('/resources/font/Roboto-Light.ttf');
+body {
+    background-color: burlywood;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
