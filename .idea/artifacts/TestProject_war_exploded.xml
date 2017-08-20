@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="TestProject:war exploded">
-    <output-path>$PROJECT_DIR$/target/TestProject</output-path>
+    <output-path>$PROJECT_DIR$/../TestProject-master/target/TestProject</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -17,11 +17,10 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.0.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.3.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="library" level="project" name="Maven: com.oracle:ojdbc7:12.1.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/TestProject/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/../TestProject-master/target/TestProject/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="TestProject/web/Web" />
     </root>

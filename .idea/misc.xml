@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../gs-handling-form-submission-master/complete" />
+    <file type="web" url="file://$PROJECT_DIR$/../HandlingForm" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringSecurityApp-master" />
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../TestProject-master" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../HandlingForm/pom.xml" />
       </list>
     </option>
   </component>

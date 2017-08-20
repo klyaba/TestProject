@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TestProject" />
+        <module name="HandlingForm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gs-handling-form-submission" target="1.8" />
+      <module name="HandlingForm" target="1.5" />
+      <module name="SpringSecurityApp" target="1.8" />
       <module name="TestProject" target="1.5" />
     </bytecodeTargetLevel>
   </component>

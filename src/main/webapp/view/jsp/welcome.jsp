@@ -12,13 +12,13 @@
 </div>
 <div>
     <form action="/profile" method="post">
-        <label for="login-field">Login: </label>
-        <input type="text" name="login" id="login-field">
+        <label for="username-field">Login: </label>
+        <input type="text" name="username" id="username-field">
         <br><br>
         <label for="password-field">Password: </label>
         <input type="password" name="password" id="password-field">
         <br><br>
-        <input type = "submit" value ="Log in">
+        <input type = "submit" value ="Login">
         <input type = "submit" value ="Register">
     </form>
 </div>
