@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Google Диск/Книги/Программирование/Amuthan G - Spring MVC Beginner's Guide - 2014/Code/Chapter 4/webstore" />
     <file type="web" url="file://$PROJECT_DIR$/../gs-handling-form-submission-master/complete" />
     <file type="web" url="file://$PROJECT_DIR$/../HandlingForm" />
     <file type="web" url="file://$PROJECT_DIR$/../SpringSecurityApp-master" />
@@ -11,6 +12,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../HandlingForm/pom.xml" />
+        <option value="$USER_HOME$/Google Диск/Книги/Программирование/Amuthan G - Spring MVC Beginner's Guide - 2014/Code/Chapter 4/webstore/pom.xml" />
       </list>
     </option>
   </component>
